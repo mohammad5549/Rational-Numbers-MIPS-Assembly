@@ -1,0 +1,6 @@
+Instructions for running the Rational Numbers Macros MIPS program:
+
+1: Open program using MARS
+2: Click assemble
+3: Click run
+4: Follow the instructions in the console to perform basic rational number arithmetic
